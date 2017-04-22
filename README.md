@@ -1,3 +1,3 @@
-# Lidalite3-ROS
+# Lidar lite3-ROS
 
-simple code of lidalite3 use in ROS system
+simple code of lidar-lite3 use in ROS system
